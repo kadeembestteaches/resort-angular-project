@@ -6,4 +6,4 @@
 1. Open terminal
 1. Clone this repo by running  **git clone project URL .**
 1. Reinstall all your dependencies by running the following command **npm i**
-1. Start Angular project by running **ng server --open**
+1. Start Angular project by running **ng serve --open**
